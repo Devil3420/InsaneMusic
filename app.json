@@ -40,7 +40,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Dosto_ki_Mehfil786",
+      "value": "insanemusicbot",
       "required": false
     },
     "SUPPORT_GROUP": {
