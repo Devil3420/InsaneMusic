@@ -105,7 +105,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/jankarikiduniya/AlexaMusic",
+      "value": "https://github.com/Devil3420/InsaneMusic",
       "required": true
     },
     "UPSTREAM_BRANCH": {
