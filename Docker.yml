@@ -2,4 +2,4 @@ build:
   docker:
     worker: dockerfile
 run:
-  worker: bash start
+  worker: start
