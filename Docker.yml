@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile1  
+    worker: dockerfile
 run:
   worker: bash start
