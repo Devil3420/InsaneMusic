@@ -11,7 +11,6 @@ services:
       MUSIC_BOT_NAME: $MUSIC_BOT_NAME  # true
       OWNER_ID: $OWNER_ID  # true
       HEROKU_API_KEY: $HEROKU_API_KEY #default to none
-      HEROKU_APP_NAME: $HEROKU_APP_NAME  # defaults to None
       LOG_GROUP_ID: $LOG_GROUP_ID  # true
       SUPPORT_GROUP: $SUPPORT_GROUP  # false
       SUPPORT_CHANNEL: $SUPPORT_CHANNEL  # false
