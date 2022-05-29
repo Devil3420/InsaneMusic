@@ -119,15 +119,15 @@ async def useradd(_, message: Message):
 @app.on_message(filters.command("start") & filters.private & ~filters.edited)
 async def useradd(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/4c7025b0b94c0d2b5f94a.jpg",
+        photo=f"https://telegra.ph/file/c1ca97093abb67d0a315f.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ᴀʟᴇxᴀ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏ sᴏɴɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ › : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/always_hungry365)
-┣★ sᴜᴘᴘᴏʀᴛ › : [ᴀʟᴇxᴀ ᴄʜᴀᴛ](https://t.me/Dosto_ki_Mehfil786)
+┣★ ᴄʀᴇᴀᴛᴏʀ › : [Mayank](https://t.me/always_hungry365)
+┣★ sᴜᴘᴘᴏʀᴛ › : [Apni Mehfil](https://t.me/Dosto_ki_Mehfil786)
 ┣★ ʀᴏᴄᴋsᴏᴘ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/Dosto_ki_Mehfil786)
-┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/katai_Massom)
+┣★ ʙʀᴏᴛʜᴇʀ › : [ᴍʏ ʙʀᴏ](https://t.me/IRFANMOHD786)
 ┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help
 ┗━━━━━━━━━━━━━━━━━┛
 
