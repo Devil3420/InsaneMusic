@@ -10,6 +10,7 @@ lyricsgenius
 motor
 pillow
 psutil
+rich
 py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
