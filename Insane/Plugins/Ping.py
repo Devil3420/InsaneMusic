@@ -32,7 +32,7 @@ async def bot_sys_stats():
 ᴄᴘᴜ: {cpu}%
 ʀᴀᴍ: {mem}%
 ᴅɪsᴋ: {disk}%
-ᴊᴏɪɴ: @Dosto_ki_Mehfil365"""
+ᴊᴏɪɴ: @Dosto_ki_Mehfil786"""
     return stats
 
 
@@ -47,5 +47,5 @@ async def ping(_, message):
     end = datetime.now()
     resp = (end - start).microseconds / 1000
     await response.edit_text(
-        f"**💐 ᴘᴏɴɢ**\n`⚡{resp} ᴍs`\n\n**{MUSIC_BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs:**{uptime}\n\n**ᴊᴏɪɴ** @Dosto_ki_Mehfil365"
+        f"**💐 ᴘᴏɴɢ**\n`⚡{resp} ᴍs`\n\n**{MUSIC_BOT_NAME} sʏsᴛᴇᴍ sᴛᴀᴛs:**{uptime}\n\n**ᴊᴏɪɴ** @Dosto_ki_Mehfil786"
     )
