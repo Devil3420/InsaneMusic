@@ -121,8 +121,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_1.join_chat("Modmenumaking")
-            await ASS_CLI_1.join_chat("Yaaro_ki_yaarii")
+            await ASS_CLI_1.join_chat("")
+            await ASS_CLI_1.join_chat("")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 1 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME1}")
@@ -140,8 +140,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_2.join_chat("modmenumaking")
-            await ASS_CLI_2.join_chat("yaaro_ki_yaarii")
+            await ASS_CLI_2.join_chat("")
+            await ASS_CLI_2.join_chat("")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 2 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME2}")
@@ -159,8 +159,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_3.join_chat("modmenumaking")
-            await ASS_CLI_3.join_chat("yaaro_ki_yaarii")
+            await ASS_CLI_3.join_chat("")
+            await ASS_CLI_3.join_chat("")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 3 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME3}")
@@ -178,8 +178,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_4.join_chat("modmenumaking")
-            await ASS_CLI_4.join_chat("yaaro_ki_yaarii")
+            await ASS_CLI_4.join_chat("")
+            await ASS_CLI_4.join_chat("")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 4 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME4}")
@@ -197,8 +197,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await ASS_CLI_5.join_chat("modmenumaking")
-            await ASS_CLI_5.join_chat("Yaaro_ki_yaarii")
+            await ASS_CLI_5.join_chat("")
+            await ASS_CLI_5.join_chat("")
         except:
             pass
         console.print(f"├[red] ᴀssɪsᴛᴀɴᴛ 5 sᴛᴀʀᴛᴇᴅ ᴀs {ASSNAME5}")
@@ -216,8 +216,8 @@ async def initiate_bot():
             console.print(f"\n[red]sᴛᴏᴘᴘɪɴɢ ʙᴏᴛ")
             return
         try:
-            await LOG_CLIENT.join_chat("modmenumaking")
-            await LOG_CLIENT.join_chat("yaaro_ki_yaarii")
+            await LOG_CLIENT.join_chat("")
+            await LOG_CLIENT.join_chat("")
         except:
             pass
     console.print(f"└[red] Insane ᴍᴜsɪᴄ ʙᴏᴛ ʙᴏᴏᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ...")
