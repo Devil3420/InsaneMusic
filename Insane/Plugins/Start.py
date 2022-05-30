@@ -138,7 +138,7 @@ async def useradd(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴀᴅᴅ ᴀʟᴇxᴀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/InsaneMusic_Bot?startgroup=true")
+                        "➕ ❰ ᴀᴅᴅ Insane ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❱ ➕", url=f"https://t.me/InsaneMusic_Bot?startgroup=true")
                 ]
                 
            ]
