@@ -43,7 +43,7 @@ def humanbytes(num, suffix="B"):
 
 
 async def get_formats(CallbackQuery, videoid, user_id, type):
-    url = f"https://www.youtube.com/watch?v={videoid}"
+    url = f"https://www.ssyoutube.com/watch?v={videoid}"
     try:
         formats = YT_info(url)
     except Exception:
